@@ -8,6 +8,7 @@ An implementation of the CycleGAN image to image translation applying Monet, Van
 
 ## Usage
 Run using ``` python webcam.py  --name MODEL_NAME --model test --preprocess none --no_dropout ``` 
+PS: I just crashed my potato running this... so fair warning, don't run if you use a potato.
 
 ## Style Models
 | Models  |
